@@ -57,7 +57,7 @@ Carikost.id adalah aplikasi (web) untuk mempermudah pencarian dan manajemen info
   - password: 87654321
  
 ## 8. Link Deployment
- - ## link Deployment: https://carikost-id.vercel.app/](http://carikost.infinityfree.me
+ - ## link Deployment: http://carikost.infinityfree.me
  
 ## 9. Screenshot Halaman Utama
   <img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/3d4ee384-050d-42a0-8885-ab66ccd3aebc" />
