@@ -1,0 +1,5 @@
+firebase_key.json
+/vendor/
+/uploads/
+composer.lock
+.env
