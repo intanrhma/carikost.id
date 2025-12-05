@@ -60,8 +60,9 @@ Carikost.id adalah aplikasi (web) untuk mempermudah pencarian dan manajemen info
  - ## link Deployment: http://carikost.infinityfree.me
  
 ## 9. Screenshot Halaman Utama
-  <img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/3d4ee384-050d-42a0-8885-ab66ccd3aebc" />
-  <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/3654ba83-830b-41bb-bdac-981ce8de54a9" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caf8bdcf-6caa-4e9a-9b1b-87f45513ef4a" />
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df069b60-06ae-4baf-b248-a68663c4d7a6" />
 
 ## 10. Catatan Tambahan
 ### 1) Keterbatasan Sistem (Penyimpanan Gambar):
